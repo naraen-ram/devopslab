@@ -1,0 +1,2 @@
+this is the line added to file1 from branch D.
+this is the line added for file1 in C.
